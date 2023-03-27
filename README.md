@@ -38,6 +38,7 @@ The Order Analytics dashboard provides a comprehensive view of sales order analy
 # Shipping Analytics Dashboard
 
 The Shipping dashboard provides a comprehensive view of shipping analytics. The dashboard includes charts that provide insights into product shipment trends, revenue by ship name, revenue by ship city, shipping fee by product & Category, and shiiping fee by ship state, Product, and customer.
+![Shipping Dashboard](https://github.com/rajikudusadewale/Order-and-Shipping-Analysis-using-Excel/blob/main/Shipping%20Dashboard.jpg)
 
 **Trends and Insights**
 
