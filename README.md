@@ -34,7 +34,7 @@ The Order Analytics dashboard provides a comprehensive view of sales order analy
 * "Top Product by Revenue," shows the top products based on revenue. This chart indicates that Coffee generated the highest revenue, followed by Curry Sauce and then Marmalade.
 
 * The majority of customers choose to pay with credit cards, followed by Checks and Cash. 
-* 
+
 # Shipping Analytics Dashboard
 
 The Shipping dashboard provides a comprehensive view of shipping analytics. The dashboard includes charts that provide insights into product shipment trends, revenue by ship name, revenue by ship city, shipping fee by product & Category, and shiiping fee by ship state, Product, and customer.
