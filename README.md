@@ -16,9 +16,11 @@ The dashboards contain various charts and slicers to visually represent the data
 * Designed my dashboards with the most  important metrics.
 
 # Order Analytics Dashboard
+
 The Order Analytics dashboard provides a comprehensive view of sales order analytics. The dashboard includes important charts that provide insights into sales order trends, salespersons' performance, revenue by state, revenue by day, top customers by order, and top products by revenue.
 
 **Trends and insights**
+
 * "Total Order with Month," shows the total number of orders per month. This chart indicates that the highest number of orders were made in december. This could be due to seasonal factors such as holidays, promotions, or discounts., while the lowest number of orders were made in April.
 
 * "Salespersons by Order," shows the performance of salespersons. This chart indicates that Salesperson Anne Larsen has the highest number of orders indicating that this salesperson is highly efficient in generating sales, followed by Salesperson Nancy Freehafer and then Salesperson Laura Giussani. 
@@ -32,7 +34,9 @@ The Order Analytics dashboard provides a comprehensive view of sales order analy
 * "Top Product by Revenue," shows the top products based on revenue. This chart indicates that Coffee generated the highest revenue, followed by Curry Sauce and then Marmalade.
 
 * The majority of customers choose to pay with credit cards, followed by Checks and Cash. 
+* 
 # Shipping Analytics Dashboard
+
 The Shipping dashboard provides a comprehensive view of shipping analytics. The dashboard includes charts that provide insights into product shipment trends, revenue by ship name, revenue by ship city, shipping fee by product & Category, and shiiping fee by ship state, Product, and customer.
 
 **Trends and Insights**
@@ -48,13 +52,13 @@ The Shipping dashboard provides a comprehensive view of shipping analytics. The 
 * "Shipping fee by ship state, product, and customer," shows the shipping fee charged for each product ordered by each customers and the ship state. This chart indicates that only Company D ordered Marmalade to New York  has the highest shipping fee , followed by company H, that ordered curry sauce and Mozzarella to Oregon  and then company BB, that ordered Coffee, and Marmalade to Tennessee 
 
 # Conclusion 
+
 Based on the analysis, it is evident that the highest number of orders were made in December and the lowest in April. Salesperson Anne Larsen performed the best, followed by Salesperson Nancy Freehafer and then Salesperson Laura Giussani. New York generated the highest revenue, followed by Miami and then Portland. Coffee generated the highest revenue, followed by Curry Sauce and then Marmalade. 
 It is also observed that the majority of customers prefer to pay with credit cards, followed by Checks and Cash. In terms of shipping analytics, the highest quantity of products were shipped in December, and Christina Lee ship generated the highest revenue, followed by Elizabeth Andersen and then Amritansh Raghav.
 
 # Recommendations
 
 Based on the insights gained from the dashboards, I recommend the following actions to the company:
-
 
 * Based on the analysis, the company should focus on increasing sales in April, as it is the month with the lowest number of orders. They should also consider incentivizing salespersons who perform well, such as Anne Larsen, Nancy Freehafer, and Laura Giussani. To increase revenue, the company can focus on generating more sales in Idaho, Colorado, and Nevada.
 
