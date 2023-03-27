@@ -18,7 +18,7 @@ The dashboards contain various charts and slicers to visually represent the data
 # Order Analytics Dashboard
 
 The Order Analytics dashboard provides a comprehensive view of sales order analytics. The dashboard includes important charts that provide insights into sales order trends, salespersons' performance, revenue by state, revenue by day, top customers by order, and top products by revenue.
-
+![Sales Order Dashboard](https://github.com/rajikudusadewale/Order-and-Shipping-Analysis-using-Excel/blob/main/Sales%20Order%20Dashboard.png)
 **Trends and insights**
 
 * "Total Order with Month," shows the total number of orders per month. This chart indicates that the highest number of orders were made in december. This could be due to seasonal factors such as holidays, promotions, or discounts., while the lowest number of orders were made in April.
