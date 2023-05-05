@@ -16,6 +16,7 @@ The dashboards contain various charts and slicers to visually represent the data
 * Designed my dashboards with the most  important metrics.
 
 # Order Analytics Dashboard
+
 ![Sales Order Dashboard](https://github.com/rajikudusadewale/Order-and-Shipping-Analysis-using-Excel/blob/main/Sales%20Order%20Dashboard.png)
 
 The Order Analytics dashboard provides a comprehensive view of sales order analytics. The dashboard includes important charts that provide insights into sales order trends, salespersons' performance, revenue by state, revenue by day, top customers by order, and top products by revenue.
@@ -39,6 +40,7 @@ The Order Analytics dashboard provides a comprehensive view of sales order analy
 # Shipping Analytics Dashboard
 
 The Shipping dashboard provides a comprehensive view of shipping analytics. The dashboard includes charts that provide insights into product shipment trends, revenue by ship name, revenue by ship city, shipping fee by product & Category, and shiiping fee by ship state, Product, and customer.
+
 ![Shipping Dashboard](https://github.com/rajikudusadewale/Order-and-Shipping-Analysis-using-Excel/blob/main/Shipping%20Dashboard.jpg)
 
 **Trends and Insights**
