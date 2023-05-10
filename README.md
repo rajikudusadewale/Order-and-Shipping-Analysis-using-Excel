@@ -62,7 +62,7 @@ It is also observed that the majority of customers prefer to pay with credit car
 
 # Recommendations
 
-Based on the insights gained from the dashboards, I recommend the following actions to the company:
+Based on the insights gained from the dashboards, I recommend the following actions to the company
 
 * Based on the analysis, the company should focus on increasing sales in April, as it is the month with the lowest number of orders. They should also consider incentivizing salespersons who perform well, such as Anne Larsen, Nancy Freehafer, and Laura Giussani. To increase revenue, the company can focus on generating more sales in Idaho, Colorado, and Nevada.
 
