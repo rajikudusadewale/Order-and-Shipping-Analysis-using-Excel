@@ -1,6 +1,6 @@
 # Order-and-Shipping-Analysis-using-Excel
 
-As a Business Analyst, I was given a dataset to carry out Sales Order and Shipping Analytics, To gather trends and insights, and give recommendations to the company sales and the Shipping. 
+As a Business Analyst, I was given a dataset to carry out Sales Order and Shipping Analytics.
 
 *The purpose of this report is to provide an overview and analysis of the Sales Order and Shipping dashboards for theframe of Jan 2019, to december 2019. These dashboards were created using Excel to provide Sales order and shipping analytics.*
 
