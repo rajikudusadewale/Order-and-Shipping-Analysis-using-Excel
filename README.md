@@ -17,7 +17,7 @@ The dashboards contain various charts and slicers to visually represent the data
 
 # Order Analytics Dashboard
 
-![Sales Order Dashboard](https://github.com/rajikudusadewale/Order-and-Shipping-Analysis-using-Excel/blob/main/Sales%20Order%20Dashboard.png)
+![Sales Order Dashboard](https://github.com/rajikudusadewale/Order-and-Shipping-Analysis-using-Excel/blob/main/Sales_Order_N.jpg)
 
 The Order Analytics dashboard provides a comprehensive view of sales order analytics. The dashboard includes important charts that provide insights into sales order trends, salespersons' performance, revenue by state, revenue by day, top customers by order, and top products by revenue.
 
